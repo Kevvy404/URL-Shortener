@@ -34,8 +34,17 @@ button {
     cursor: pointer;
 }
 
-.hidden {
-    display: none;
+.hidden { 
+    display: none; 
+}
+
+.copy-confirmation {
+    color: green;
+    margin-left: 10px;
+}
+
+#short-url-container {
+    margin: 20px 0;
 }
 
 .copy-button {
@@ -50,9 +59,4 @@ button {
 
 .copy-button:hover {
     background: #0056b3;
-}
-
-#copy-confirmation {
-    color: green;
-    font-size: 0.9em;
 }
