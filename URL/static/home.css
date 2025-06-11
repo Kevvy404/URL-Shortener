@@ -26,7 +26,6 @@ input {
 }
 
 button {
-    background: #4CAF50;
     color: white;
     padding: 10px 15px;
     border: none;
@@ -34,12 +33,16 @@ button {
     cursor: pointer;
 }
 
+.submit-button:hover{
+    background: #4fa352;
+}
+
 .hidden { 
     display: none; 
 }
 
 .copy-confirmation {
-    color: green;
+    color: #007bff;
     margin-left: 10px;
 }
 
