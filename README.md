@@ -10,7 +10,6 @@ A self-hosted web application that converts long URLs into short, easy-to-share 
 ### How to Run
 > Prerequisites
 - Python 3.7+ installed
-- Code Compiler
 
 1. ### Clone or Download the Project
 
