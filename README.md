@@ -14,8 +14,8 @@ A self-hosted web application that converts long URLs into short, easy-to-share 
 1. ### Clone or Download the Project
 
 ```bash
-git clone https://github.com/your-username/url-shortener.git
-cd url-shortener
+git clone https://github.com/Kevvy404/URL-Shortener.git
+cd URL-Shortener
 ```
 
 2. ### Set Up a Virtual Environment 
