@@ -50,11 +50,11 @@ python app.py
 ``` 
  * Serving Flask app 'app'
  * Debug mode: on
- * Running on http://127.0.0.1:5000 
+ * Running on http://127.0.0.1:5001
  ```
 
 6. ### Access the Web Application
-- Open your browser and visit: http://localhost:5000
+- Open your browser and visit: http://localhost:5001
 
 7. ### Stopping the Application
 - Press Ctrl + C in your terminal to stop the Flask Server
