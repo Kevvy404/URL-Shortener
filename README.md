@@ -34,7 +34,7 @@ pip install flask flask-sqlalchemy werkzeug==2.3.7 flask-migrate
 ```
 4. ### 
 ```bash
-cd URL   #Change directory
+cd URL   # Change directory
 ```
 
 5. ### Initialise the Database
