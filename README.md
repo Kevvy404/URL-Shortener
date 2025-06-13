@@ -32,13 +32,17 @@ source venv/bin/activate      # Linux/Mac
 ```bash
 pip install flask flask-sqlalchemy werkzeug==2.3.7 flask-migrate
 ```
+4. ### 
+```bash
+cd URL   #Change directory
+```
 
-4. ### Initialise the Database
+5. ### Initialise the Database
 ```bash
 python -c "from app import db, app; app.app_context().push(); db.create_all()"
 ```
 
-5. ### Run the Application
+6. ### Run the Application
 ```bash
 python app.py
 ```
